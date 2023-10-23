@@ -1,1 +1,1 @@
-Proyecto de aolicacion clinica
+Proyecto de aplicacion clinica
